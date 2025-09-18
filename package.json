@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "types": "module",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Thomassssssz/mongoose-vega-tomas/issues"
   },
